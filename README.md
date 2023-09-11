@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>Networking</b>
+- <b>Network Security & Traffic Analysis</b>
   - Wireshark Lab
   - Tcdump Lab
 - <b>Security</b>
