@@ -13,6 +13,9 @@
 
  - <b>Python</b>
    - Upcoming Python Lab | Oct, 2023
+  
+ - <b>SQL</b>
+   - Upcoming SQL Lab | Oct, 2023
 
 <h2> Certifications:</h2>
 
