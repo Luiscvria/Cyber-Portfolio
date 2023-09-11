@@ -2,11 +2,17 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SIEM in Azure Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Networking</b>
   - Wireshark Lab
   - Tcdump Lab
+- <b>Security</b>
+   - SIEM in Azure Lab - Upcoming upload Sep, 2023
+  - Vulnerability Management Lab | Upload coming Oct, 2023
+- <b>Windows</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+ - <b>Python</b>
+   - Upcoming Python Lab | Oct, 2023
 
 <h2> Certifications:</h2>
 
