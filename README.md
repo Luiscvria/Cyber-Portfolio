@@ -7,7 +7,7 @@
   - Tcdump Lab
 - <b>Security</b>
    - SIEM in Azure Lab - Upcoming upload Sep, 2023
-  - Vulnerability Management Lab | Upload coming Oct, 2023
+  - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)| Upload coming Oct, 2023
 - <b>Windows</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
