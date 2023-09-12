@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>Network Security & Traffic Analysis</b>
-  - Wireshark Lab
+  - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners/edit/main/README.md)
   - Tcdump Lab
 - <b>Security</b>
    - SIEM in Azure Lab - Upcoming upload Sep, 2023
