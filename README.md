@@ -4,7 +4,7 @@
 
 - <b>Network Security & Traffic Analysis</b>
   - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
-  - Tcdump Lab
+  - Tcpdump Lab
 - <b>Security</b>
    - SIEM in Azure Lab - Upcoming upload Sep, 2023
   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)| Upload coming Oct, 2023
